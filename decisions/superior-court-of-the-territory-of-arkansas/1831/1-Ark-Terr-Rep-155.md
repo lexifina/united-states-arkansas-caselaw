@@ -1,0 +1,48 @@
+---
+court: "Superior Court of the Territory of Arkansas"
+decided: "1831-07"
+citations: ["1 Ark. Terr. Rep. 155"]
+reporter: "ark-terr-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bates, J., concurred."]
+parties: ["Jeremiah Pate, administrator of John Johnson, deceased, plaintiff in error, vs. Matthew Gray, defendant in error."]
+source_url: "https://static.case.law/ark-terr-rep/1/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 236625
+cites_cases: ["1 Johns. Cas. 411", "1 Litt. 160", "2 Bay, 481", "2 Johns. Rep. 155", "20 Johns. Rep. 137", "8 Johns. Rep. 152"]
+---
+
+# Pate v. Gray
+
+## Majority (Eskridge, J.,)
+
+Eskridge, J.,
+delivered the -opinion of the Court. — This was an action of debt, brought by the administrator of John Johnson against Matthew Gray, in the Hempstead circuit court, founded upon the following note: —
+“ In the month of January in the year 1829, I, for value received, promise to pay John Johnson or order five hundred and fifty dollars : witness my hand and seal 19th day of September, 1829. (Signed) Matthew Gray [seal].”
+There were three several pleas pleaded by the defendant: first, payment on the day; secondly, payment subsequent to the day; and thirdly, a special plea of set-off in bar. Upon the two former the plaintiff joined issue, and to the latter interposed a general demurrer. The circuit court decided that the plea of set-off was a bar to the plaintiff’s action, overruled the plaintiff’s demurrer, and rendered a judgment in favor of the defendant for the sum of $127 and costs; to which opinion of the circuit court plaintiff excepted, and to reverse which he has brought the cause to this court by writ of error.
+The evidence adduced by the defendant, in support of the plea of set-off, was a promissory note, in the following language:—
+$508t4o2q. New Orleans, 19th May, 1827.
+“ On demand, we jointly and severally promise to pay to the order of T. R. Hyde five hundred eight dollars and forty-two cents for value received, with interest at the rate of ten per cent, per annum until paid. (Signed) John Johnson,
+“ L. W. Maddox.”
+Upon which promissory note there was the following indorsement : —
+“ Transferred and assigned to Matthew Gray for value received, without recourse to me.
+“ March 30th, 1829.
+(Signed) T. R. Hyde.”
+The questions presented for our consideration depend upon the statutes of set-off.
+It is well to premise, that the statute of set-off ought to be, as it always has been, liberally expounded, to advance justice and prevent circuity of action.
+The statute of 1804 provided, that if two or more dealing together be indebted to each other upon bill, bond, &e. &c., and the statute of 1818, supplementary to the former, provides that if two or more be mutually indebted to each other by judgments, &c., one debt may be set off against the other. Our statutes of 1804 and 1818 are to be construed in connection ; and if so, they mean precisely the same thing.
+The words “mutual debts” in the English statute of 2 Geo. II. c. 22, sec. 13, and “ dealing together ” and being “ indebted to each other,” in the statute of New York, are considered as expressions of the same import. Gordon v. Bowne, 2 Johns. Rep. 155. And so the expressions in our statutes should be considered as conveying the same meanings ; and it was doubtless so intended by the legislature.
+I do not deem it necessary to examine several points discussed at the bar. The general rule on the subject of set-off is, that the demand of the plaintiff, as well as that of the defendant, must be specific and certain ; there must be mutuality, that is, on each side a debt, to authorize a set-off. There must exist in both plaintiff and defendant, at the time of the institution of the suit, a simultaneous right of action.
+From the view which I take of the case, it will be only necessary to notice four of the points relied upon in argument for reversing the judgment. First, that Gray, holding the note relied on as a set-off as assignee, was not evidence under the plea of set-off; second, that the note ought not to have been received in evidence, because it was the joint and several note of John Johnson and L. W. Maddox; third, that interest was improperly allowed on the note from its date; and fourth, that a judgment for costs was improperly rendered against the plaintiff.
+This court has repeatedly recognized the rights of an assignee of a chose in action, and our statute on the subject of assignment is explicit.
+The supreme court of New York, in the case of Andrews v. Beecher, (1 Johns. Cas. 411,) went so far as to say that release by the obligee of a bond, after an assignment of it, was a nullity, and not to be regarded. The decision just quoted conforms to the English decisions (see Leigh v. Leigh, 1 Bos. & Pul. 448). The assignee is the real party in interest. Gray, after he acquired the note from Hyde by assignment, stood precisely in his place, and succeeded to all his rights. What was originally a debt due from Johnson to Hyde became, by virtue of the assignment, a debt due from Johnson to Gray, and created the mutual indebtedness contemplated by the statute of set-off; a debt existed on each side, and a simultaneous cause of action accrued to each party.
+The right of the assignee to avail himself of a set-off in a case precisely like the present, has been recognized by the supreme court of South Carolina, (see Comply's Administrator v. Ashen, 2 Bay, 481,) and also by the supreme court of New York, in the case of Tuttle v. Bebee, 8 Johns. Rep. 152. If it, however, appeared from the record, that Gray acquired the note by assignment subject to the death of Johnson, he could not plead it as a set-off, according to the case of Edwards' Administrator v. Taylor, 20 Johns. Rep. 137.
+But it was objected, secondly, that the note being joint and several,tthe liability of Johnson and-Maddox could not, on that account, be received in evidence. I cannot perceive any force in this position. The note being the joint and several note of Johnson and Maddox, it was competent for Hyde, to whom it was originally executed, and for Gray, after its acquisition by assignment, to sue Johnson alone, or to sue Johnson and Maddox. It was entirely optional with the holder of the note to proceed jointly or severally against the makers. Gray has chosen to hold Johnson individually liable, and he had a right to do so.
+Third; the propriety of the allowance of interest on the note .offered as a set-off, from its date, is questioned.
+The question then occurs, What was the intention of the parties at the time of the execution of the note, upon a fair and sound interpretation of it? It is conceded, that upon a promissory note payable on demand, without any stipulation in relation to interest, interest does not accrue until demand made; and in such case, if no demand be made prior to the institution of the suit, interest will begin to run from that time, the institution of the suit being considered a demand. Why, it may be asked, if it had been the intention of the parties at the time of the execution of the note that interest should not accrue until a demand made, did they not so frame the note ? They did not do so, but expressly stipulated for interest at the rate of ten per cent, per annum until paid. The parties could have meant nothing else, but that this note should bear interest from the day of its execution. To say that this note only bears interest from a demand, would be rejecting that portion of the note which stipulated for the payment of interest; and this is the tule of decision in the State of Kentucky. See Whitton v. Snope’s Administrator, 1 Litt. 160, a case directly in point.
+The fourth and last point that I shall notice calls in question the propriety of the judgment for costs in the circuit court.
+The 28th section of the act concerning executions and administrations provides, that if any person shall bring an action against any executor or administrator within one year, such person, although he may obtain judgment, shall not recover any costs of suit. Ter. Dig. 28.
+A plea of set-off in bar, it is true, is considered in the nature of a cross action, so far as it regards the proof; but it cannot in this, nor in any other case, be considered as the institution of an action, and is consequently not embraced by the provisions of the 28th section of the administration law. Gray was not a voluntary litigant of his claim. He was sued, and having succeeded in his defence, and recovered a judgment by virtue of a statute equally obligatory upon this court with that just referred to, he is entitled to costs, as a necessary consequence of the judgment.
+Bates, J., concurred.
+Judgment affirmed.
