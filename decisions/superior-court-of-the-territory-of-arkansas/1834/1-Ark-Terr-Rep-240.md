@@ -1,7 +1,8 @@
 ---
 court: "Superior Court of the Territory of Arkansas"
 decided: "1834-07"
-citations: ["1 Ark. Terr. Rep. 240", "1 Ark. Terr. Rep. 259"]
+decided_precision: "month"
+citations: ["1 Ark. Terr. Rep. 240"]
 reporter: "ark-terr-rep"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
