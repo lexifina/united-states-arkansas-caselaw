@@ -1,0 +1,24 @@
+---
+court: "Superior Court of the Territory of Arkansas"
+decided: "1832-07"
+citations: ["1 Ark. Terr. Rep. 195"]
+reporter: "ark-terr-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Campbell, administrator, and Liza Campbell, his wife, administratrix, plaintiffs in error, vs. William Strong, assignee of Wade Hampton, deceased, defendant in error."]
+source_url: "https://static.case.law/ark-terr-rep/1/cases/0195-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 236668
+---
+
+# Campbell v. Strong
+
+## Majority
+
+Opinion oe the Court. — The defendant Strong presented a claim for allowance against the plaintiffs as administrator and administratrix, to the circuit court of Phillips county, which was finally acted upon and allowed on the 17th day of November, 1826. The object of the writ of error is to reverse this allowance. Two preliminary questions have been raised by a motion to dismiss the wilt of error, first, whether it is authorized in such cases ? and if so, secondly, whether it is not barred in the present case by the statute of limitations?
+By the 30th section of the act of 1825, entitled, “ An Act concerning executors and administrators,” any person having a claim or demand against the estate of a deceased person, may apply to the circuit court of the county in which the letters testamentary, etc., of administration were granted, to have the same proved and allowed, first giving ten days previous notice of the nature and amount of such claim or demand, and in such cases the circuit court or, if either desired it, where the amount exceeds twenty dollars, a jury shall decide on the validity of the claim or demand without the formality of pleading.
+Where the sum in controversy does not exceed one hundred dollars, the decision is final. For a greater amount the right of appeal is given to either party to the superior court upon paying the costs of proceeding in the circuit court, and making affidavit, he does not appeal for the purpose of delay. In the superior court, where the appeal has been regularly obtained and transmitted, the case is to be tried on its merits de novo.
+The object of the legislature in authorizing this summary mode of proceeding, was doubtless not only to facilitate and simplify the adjustment of claims against the estates of deceased persons, but to render it less expensive. The common law method, however, by suit against the executor or administrator, may still be resorted to. But if the action be brought within a year after the grant of letters testamentary or of administration, the costs are to be paid by the plaintiff in the suit notwithstanding he may obtain judgment for the amount of his claim. Where the common law remedy is adopted, there can be no doubt but that a writ of error would lie as in other cases. The issuance of a writ of error from the final decision or judgment of any circuit court, is declared by our statute, to be a matter of right. Geyer’s Digest, 263. Apart from this statutory provision, the common law allows the writ on all judgments rendered according to its rules by any court of record. 2 Tidd, 1051; 9 Petersdorf, tit. Error, 10.
+The proceedings in the case before the court is dependent for its validity alone upon the thirtieth section of the act of 1825, and is altogether contrary to the course of the common law. Upon an allowance in the proceedings authorized, a subsequent act is necessary on the part of the court before payment of the claim allowed can be coerced by execution.
+The executor or administrator is required to settle his accounts annually with the court, and upon these settlements, an order is made for the payment of claims previously allowed in whole or in part according to the situation of the estate, upon which, if not complied with in ten days after the end of the term, the claimant may sue out an execution. See section thirty-four of same act. The allowance, therefore, is neither a final decision, nor is it a judgment according to the course of the common law. The doctrine is, where a new jurisdiction is created by statutory provision authorizing a proceeding not known to the common law, the writ of error will not lie, but a certiorari will. 2 Tidd, 1051. It has been repeatedly decided in the circuit courts, that a writ of error does not lie on an allowance against an executor or administrator in the county courts where such allowances are now cognizable by act of the legislature.
+We are clearly of the opinion, that if the plaintiffs have been injured by the decision of the circuit court, their remedy is not by writ of error, the legislature not having given it by the act authorizing the allowance. The second ground relied upon, it will not be necessary to notice. The motion is therefore sustained, and the writ dismissed.
