@@ -1,0 +1,22 @@
+---
+court: "Superior Court of the Territory of Arkansas"
+decided: "1831-01"
+citations: ["1 Ark. Terr. Rep. 101"]
+reporter: "ark-terr-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Jacobs, appellant, vs. Thomas Jacobs, administrator of Keziah Jacobs, deceased, appellee."]
+source_url: "https://static.case.law/ark-terr-rep/1/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 236706
+---
+
+# Jacobs v. Jacobs
+
+## Majority (Eskridge, J.,)
+
+Eskridge, J.,
+delivered the opinion of the Court. — This was-an action for the recovery of money due upon an account brought by Thomas Jacobs against John Jacobs, before a justice of the peace for the county of Lafayette. There was a verdict and judgment before the justice, in favor of the plaintiff, for $78.00, from which the defendant appealed to the circuit court, which having dismissed the appeal, the cause has been brought by appeal to this court.
+Two questions are presented by the record: first, whether the circuit court erred in dismissing the appeal; and second, whether the judgment rendered by that court, upon such dismissal, was, correct and suitable. A justice of the peace is required by the statute to keep a docket, and to note in it every step taken in the progress of a cause pending before him, and a transcript from the docket thus kept is made evidence; and it is incompetent for the justice, after he shall have certified a transcript from his docket to the circuit court, to supply any defect that may exist in it, by certificate or otherwise; nor can such defect be supplied by the testimony of persons who were present at the trial before the justice. The transcript, as certified by the justice, must be taken as true, and no extraneous matter can be received by the court to add to or diminish it.
+The circuit court decided correctly in refusing to receive both the certificate of the justice and the affidavits of witnesses, that an appeal was prayed for on the day of trial. The fact, whether an appeal was taken on the day of trial, was an important one in the progress 6f the cause, which ought to have been noted by the justice on his docket. The statute provides, that when an appeal is prayed for on the day of trial, it shall not be necessary to give notice to the adverse party; and, on the other hand, when an appeal is not prayed for on that day, a notice of ten days must be given to the opposite party.
+It not appearing from the transcript of the justice’s docket, as certified to the circuit court, that either an appeal was prayed for on the day of trial, or that ten days notice, as required, was given, the appeal was very properly dismissed by the circuit court. But, however correct the decision of the circuit court may have been in dismissing the appeal, the judgment of that court upon the dismission was erroneous, and must be reversed by this court. The circuit court, instead of dismissing the appeal, and rendering a judgment for costs only, gave a judgment for the money in controversy, as also for costs. This was error, and on this ground the judgment of the Lafayette circuit court must be reversed. Judgment reversed accordingly.
