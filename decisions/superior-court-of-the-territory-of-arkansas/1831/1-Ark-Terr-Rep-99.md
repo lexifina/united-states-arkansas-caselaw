@@ -1,0 +1,23 @@
+---
+court: "Superior Court of the Territory of Arkansas"
+decided: "1831-01"
+citations: ["1 Ark. Terr. Rep. 99"]
+reporter: "ark-terr-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Orson V. Howell vs. Peter T. Crutchfield."]
+source_url: "https://static.case.law/ark-terr-rep/1/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 236690
+cites_cases: ["1 Bibb, Rep. 496", "1 Cranch, Rep. 137"]
+---
+
+# Howell v. Crutchfield
+
+## Majority (Eskridge, J.,)
+
+Eskridge, J.,
+delivered the opinion of the Court. — This is a motion made by O. Y. Howell, an attorney at law of this court, for a rule against Peter T. Crutchfield, the judge of the county court of Pulaski county, to show cause why a mandamus should not be granted by this court, commanding him to amend the record in a certain proceeding in the county court against O. Y. Howell, for an alleged contempt offered by him to the county court.
+The plaintiff in this motion states in his affidavit that the record of the proceedings in the case above stated is imperfect and incomplete, and entirely..omits and fails to show several material parts of the proceedings, and mistakes others which were had in open court in the case, and that he believes it to be material to his rights and privileges as a man, as an attorney at law, and as a citizen, that a true and perfect record of all the proceedings in the case, upon two certain processes, purporting to be attachments against him, should be fully set forth in the records of the county court. He further states that he applied to the judge of .the county court, by motion in open court, to have the records of the proceedings so amended as to have all the acts of the county court fully stated, but that the judge refused to hear his motion. The prayer is for a rule to show cause why a mandamus shall not issue to the judge of the Pulaski county court, commanding him at the next term of the court, to amend and alter the records of the last term, so as to set forth fully the proceedings before mentioned, or to signify something to the contrary to this court.
+A preliminary question touching the jurisdiction of this court, to grant a mandamus in this case, has been made, and it is this question alone that we arq called upon to decide at present. The act passed on the 22d of October, 1828, by the legislature of this territory, contains the following provisions: “ That from and after the taking effect of this act, the superior court of this territory shall in all cases at law and equity be exclusively an appellate court, and shall not have original jurisdiction in any civil case, unless such as arise under the laws of the United States, or take cognizance of any criminal cases alleged to have been committed'within this territory.” Acts, 34.
+To enable this court to issue, then, a mandamus, it must be shown to be an exercise of appellate jurisdiction. In the case of Marbury v. Madison, 1 Cranch, Rep. 137, the supreme court held that a mandamus to the secretary of State was an exercise of original jurisdiction, and discharged the rule. In the case of Daniel v. The County Court of Warren, 1 Bibb, Rep. 496, the court of appeals of Kentucky, held that a mandamus is an original writ, not an appellate process; that it is an emanation from and an incident to original jurisdiction only ; that in its nature it is not necessary to the revision of a cause already adjudged or decreed, but does in itself create that cause, and on that ground- overruled the motion. These cases are in point to show that the motion for the rule must be overruled.
