@@ -1,0 +1,23 @@
+---
+court: "Superior Court of the Territory of Arkansas"
+decided: "1828-10"
+citations: ["1 Ark. Terr. Rep. 64"]
+reporter: "ark-terr-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Benjamin Moores, and Ann Moores, his wife, vs. Lawrence F. Carter, Frederick Thomas, and William Clark."]
+source_url: "https://static.case.law/ark-terr-rep/1/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 236608
+---
+
+# Moores v. Carter
+
+## Majority
+
+Opinion oe the Court. — The plaintiffs brought an action of trespass vi et armis against the defendants, and in their declaration aver, that the plaintiff, Benjamin Moores, is a private soldier in the United States army, and is stationed at Fort Gibson in this territory; and that he lived separate and apart from his wife, Ann Moores, who by her industry had become possessed of a small dwelling-house; and had furnished it at her own expense, and resided in it, separate and apart from her husband; that the defendants with force and arms, entered the dwelling-house, and threw her into great fear by their menacing manner, by breaking open her chests, searching all the private apartments, greatly disturbing her and injuring the property, and took and carried away various articles of property, of the proper goods and chattels of the plaintiffs.
+At the appearance term, on the motion of the defendants, the proceedings and declaration were quashed ; and after the above order was made, the plaintiffs’ attorney asked leave to amend the declaration, but his motion was overruled, and the suit dismissed.
+Two questions are presented in this case: First, can the plaintiffs join in the action; and second, if they were improperly joined in bringing the suit, should the court have permitted the declaration to be amended. We have no doubt that the wife was improperly joined with the husband in bringing the action' Although she lived separate and apart from him, the marriage was in full force, and he was legally entitled to all the marital rights. The dwelling-house, and all the goods and chattels purchased or owned by the wife, belonged to the husband, and for an injury done to that property the husband alone must sue. This doctrine is too well settled to be controverted; and it is not necessary to support it by reference to authority.
+It has been argued, that she was the meritorious cause of action, and therefore had a right to join. If this was true, the consequence might follow; but she was not the meritorious cause of action in the sense contemplated by law. Every species of personal property which the wife may acquire by purchase, by her own personal labor, or by gift, during the coverture, belongs to the husband, and consequently an injury to that property, or the taking of it away, can only give a right of action to the husband, and not to the wife.
+Upon the second question, as to the amendment, we have no doubt that the declaration could not be amended, by striking out one of the plaintiffs. It would have been more regular if the defendants had demurred, instead of moving to quash the declaration. But we are not inclined to regard an objection as to form only, since the motion was in the nature of a demurrer, and the judgment of the court was in substance the same.
+It is true there is no judgment in favor of the defendants for costs in the court below; but of this the plaintiffs have no right to complain. Judgment affirmed.
