@@ -1,0 +1,48 @@
+---
+court: "Arkansas Circuit Court"
+decided: "1846-07"
+citations: ["1 Ark. Terr. Rep. 464"]
+reporter: "ark-terr-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles T. Nelson, complainant, vs. Winslow Robinson, defendant."]
+source_url: "https://static.case.law/ark-terr-rep/1/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 236512
+cites_cases: ["1 Dana, 422"]
+---
+
+# Nelson v. Robinson
+
+## Majority
+
+Opinion oe the Court. — This is a motion to dissolve an injunction; and on looking into the case, it appears that some of the specific material and positive allegations in the bill upon which the injunction may well be sustained, are only denied on information and belief, and not on the personal knowledge of the defendant. Where there is equity on the face of the bill, the rule is well settled that an injunction will not be dissolved on the coming in of the answer, unless there is a positive denial of all the material facts which form that equity, and such denial, too, must be based on the personal knowledge of the defendant f and a denial on information and belief is not sufficient. Roberts v. Anderson, 2 Johns. Ch. R. 202; Apthorpe v. Comstock, Hopkins, R. 143; Ward v. Van Bokelen, 1 Paige, R. 100. And the plain reason of this rule is, that a denial on information cannot be equal in weight with a statement made from personal knowledge; for a defendant may have derived his information from one no better informed than himself on the subject. 1 Paige, 160, 426. Although it is doubtless a general rule that an injunction obtained on filing the bill will be dissolved on the. coming in of the answer denying all the equity of the bill (2 Madd. Ch. R. 238; 8 Yesey, 35; 9 Ib. 355; 19 Ib. 144; 1 Johns. Ch. R. 211; Ib. 444), yet it is equally well established as an exception to it, that it is in the sound discretion of the court to continue an injunction where the nature and circumstances of a case require it, and where justice will be attained by that course. 2 Johns. Ch.,R. 202; 3 P. Wms. R. 255; 2 Brown, Ch. R. 88; 3 Ib. 463; 16 Vesey, 49; 19 Ib. 149; 2 Madd. Ch. 366; 1 Newland, Ch. Pr. 227. It does not follow, then, as a necessary consequence, that an injunction .will be dissolved on the coming in of the answer; and at all events, to produce'that result, the answer must have the requisites above alluded to, and which this, in my opinion, does not possess. Poor v. Carlton, 3 Sumner, 70. Motion denied.
+April, 1853. — This cause came on for final hearing before the Hon. Peter V. Daniel, associaté justice of the supreme court, holding the Circuit Court.
+The Hon. Daniel Ringo, district judge, having been of counsel, did not sit.
+S. H. Hempstead, for complainant.
+In January or February, 1837, Charles T. Nelson, the complainant, purchased from Theodoric A. Bennett the north-west quarter section three, the south-west quarter of the north-east quarter of section three, in township fourteen, south of range twenty-five west; also the south-west quarter of section thirty-four in township thirteen, south of range twenty-five west, containing altogether 361T5^ acres, at $5 per acre.
+There was no written contract between the parties, but Bennett was to make Nelson a title, which of course means one in fee-simple; and Nelson gave his obligation for the purchase-money.
+Nelson took possession of the lands and made valuable and lasting improvements, worth, according to the' proof, $1,200 or $1,500, and upon a rescission of the contract, is willing to lose, so the parties can be placed in statu quo without injury to any one, except that Nelson must be loser.
+Bennett, the vendor, died in August, 1837, without having made title, the purchase-money remaining unpaid, and Henry M. Robinson administered on the estate. Bennett left a widow, who afterwards married Joel J. Robinson, and she is still alive. Bennett left two children,- namely, Lucy Ann, who is still alive, and a child.born after his death, which child died in minority ; and according to our law, the mother inherited from the child. Lucy Ann, the living child, never had a guardian. Henry M. Robinson, the administrator of Bennett, became insolvent and removed from the State without closing the administrationship, and it is not yet closed.
+The obligation that was given by Nelson for the purchase-money appears to have been split up into small sums, within the jurisdiction of a justice of the peace, and judgments to have been confessed on these sums. And these judgments were afterwards consolidated by Winslow Robinson, and a note given to him by Nelson and others, on which judgment was obtained, and the collection of it enjoined by this court, on the principal ground that no title could be obtained from Bennett or his representatives.
+The answer of Winslow Robinson sets up, by way of avoidance, that Nelson, the complainant, was to take title through Norlove Nelson, and was not to obtain any from Bennett at all; that this was the contract between the parties.
+This is new matter, and it will not be controverted that the defendant must prove it. This he has not done, according to our understanding of the case; and the proof is, that he was to obtain title from Bennett, and not that Bennett was to substitute some other person in his place.
+The rule of law we take to be clear, that where a person contracts with another for real estate, and the understanding is, that A., the vendor, is to make a title, the vendee cannot be required to take a title from B., because that would be to make a new contract. Yeates v. Pryor, 6 English, 76.
+In the case of Taylor v. Porter, 1 Dana, 422, it was said by the court that the vendee had a right to insist on the title he contracted for, and that the vendor could not substitute another person in his place as the maker of the title. And the reason is plain; if he could do that, he might offer one less solvent and able to remunerate the vendor, should the title fail. 6 English, 76.
+It is not an answer to say that the title offered by B. is unexceptionable, and as good or better than a title which A. could make. My contract is to take title from A., and not from B.; and I have a right to stand on my contract.
+The patents that are produced here we repudiate; we say there was no contract with Norlove Nelson, and we were not to take title through him, because, putting every thing else aside, it is proven that he was a minor, and could not make a binding contract, except for necessaries. He died in minority.
+The transfers made by him to Charles'’T. Nelson, on which these patents purport to have issued, were void. The transfers could be of no possible benefit to him; in fact they were prejudicial to him, and hence void, not voidable merely, but absolutely void. 10 Peters, 70.
+We do not deny that an infant may be a trustee; but here no trust has been shown, nor any thing equivalent to it.
+These transfers must be treated as void.
+There is no proof that the patents ever came to the possession of Charles T. Nelson, or that he ever saw them.
+This controversy cannot be settled in this court, and the appropriate remedy is to enjoin this judgment perpetually, and let the parties resort to the State courts, where Mrs. Robinson, formerly the wife of Bennett, and Lucy Ann, her child, and the heirs of Norlove Nelson can be made parties, and justice done between them. These persons, on account of citizenship, cannot litigate their rights in this court, for there would be no jurisdiction.
+There are equitable rights and interests behind these patents vested in others; and Charles T. Nelson could only get an apparent title, with a vast ocean of litigation beyond it.
+A specific performance against a purchaser should not, it is said, be enforced, unless the title to the estate is free from suspicion. 2 Sugden, 110.
+The inclination of the court is to favor the vendee, and it will always see that he has a good title. Where there is doubt, where there is suspicion, where the court sees that there are difficulties or equities beyond the legal title, a specific performance will not be decreed.
+In substance, this involves the specific performance of a contract.
+■ But the judgment ought to be perpetually enjoined, on the ground that Winslow Robinson has no such interest in this debt as will authorize him to control or collect it. The money belongs to the estate of Theodoric A. Bennett, and this suit would be no protection to Nelson against a claim brought by the heirs of Bennett for it. If he pays it, it is at his peril, and he is liable to pay it again to that estate.
+According to the showing made by Winslow Robinson, in his answer, this money, or a part of it, will be misapplied; as a part of it is to discharge a private debt of Henry M. Robinson, the administrator of Bennett, to Hendley and Robinson.
+Surely a court of equity will not stand by and allow such a proceeding, nor remove the restraint by which a party will be enabled to do it.
+It is'no answer to say that we have no concern in this, or in the application of the fund. We have the deepest concern; because, if we ought to pay the purchase-money to any one, it is to the estate of Bennett, and not to Winslow Robinson, who is not connected with that estate in any way, and can make us ■no title.
+F. W. Trapnall, for defendant.
+The Court, o'n the whole case, considered that the injunction should be dissolved, the defendant remitted to his remedy at law, and the bill dismissed at the costs of the complainant, but gave no written opinion. Decreed accordingly.
