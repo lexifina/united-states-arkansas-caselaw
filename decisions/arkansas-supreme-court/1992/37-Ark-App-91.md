@@ -1,0 +1,31 @@
+---
+court: "Arkansas Supreme Court"
+docket: "CA 91-182"
+decided: "1992-02-19"
+citations: ["37 Ark. App. 91", "824 S.W.2d 406"]
+reporter: "ark-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Danielson and Rogers, JJ., agree."]
+parties: ["WEYERHAEUSER COMPANY v. Galen McGINNIS"]
+source_url: "https://static.case.law/ark-app/37/cases/0091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6137834
+cites_cases: ["15 Ark. App. 53", "233 Ark. 786", "33 Ark. App. 103", "Ark. Code Ann. § 1", "Ark. Code Ann. § 11", "Ark. Code Ann. § 11-9-522"]
+---
+
+# Weyerhaeuser Co. v. McGinnis
+
+## Majority (John E. Jennings, Judge.)
+
+John E. Jennings, Judge.
+This is a workers’ compensation case. Galen McGinnis sustained an admittedly compensable injury on December 15, 1987, while employed with Weyerhaeu-ser Company. While lifting a log, he broke two lumbar vertebrae. It is undisputed that as a result of the injury McGinnis has a five percent permanent anatomical impairment to the body as a whole. McGinnis is fifty years old and went through the eleventh grade in school. At the time of the injury he had worked for Weyerhaeuser in the raw materials department for eighteen years and was earning $8.49 an hour. By June of 1989 he had been placed in a “roundtable” job in the mill work department and was earning $7.21 per hour.
+Under its collective bargaining agreement, Weyerhaeuser posts job openings on bulletin boards at its plant. Employees may bid on these jobs and are selected on the basis of seniority for a thirty day trial period. If at the end of the trial period the employee has not demonstrated the ability to do the job, he may return to his old position. After McGinnis’s injury, five such job openings were posted on plant bulletin boards. McGinnis bid on one such job and was not selected due to lack of seniority. He denied knowledge of the others. One of the jobs, traffic controller, would have paid more than McGinnis was earning at the time of his injury. He testified that he was unaware of this job opening.
+On this evidence, the Commission held that McGinnis was entitled to 7.5 percent wage-loss disability in addition to this five percent permanent anatomical impairment. Weyerhaeuser contends that this finding is not supported by substantial evidence, relying on Ark. Code Ann. § 11-9-522 which provides, in pertinent part:
+(b) In considering claims for permanent partial disability benefits in excess of the employee’s percentage of permanent physical impairment, the commission may take into account, in addition to the percentage of permanent physical impairment, such factors as the employee’s age, education, work experience, and other matters reasonably expected to affect his future earning capacity. However, so long as an employee, subsequent to his injury, has returned to work, has obtained other employment, or has a bona fide and reasonably obtainable offer to be employed at wages equal to or greater than his average weekly wage at the time of the accident, he shall not be entitled to permanent partial disability benefits in excess of the percentage of permanent physical impairment established by a preponderance of the medical testimony and evidence.
+(c)(1) The employer or his workers’ compensation insurance carrier shall have the burden of proving the employee’s employment, or the employee’s receipt of a bona fide offer to be employed, at wages equal to or greater than his average weekly wage at the time of the accident.
+Appellant’s argument is that the statute bars an award of wage-loss disability because McGinnis “had a reasonably obtainable offer to be employed at wages greater than his average weekly wage at the time of the accident.” We hold that the Commission’s determination that the statute does not bar an award of wage-loss disability under the facts presented is supported by substantial evidence.
+To the extent that the statute is unclear, it must be construed liberally in accordance with the remedial purposes of the act. Ark. Code Ann. § 1 l-9-704(c)(3). The statute clearly requires a bona fide and reasonably obtainable offer. Ark. Code Ann. § ll-9-522(b).Theemployer has the burden ofproviding “a bona fide offer to be employed.” Ark. Code Ann. § 11-9-522(c)(1). We agree with the Commission that this means there must be an actual offer of employment. In holding as it did, the Commission noted the testimony of Don Trantham, appellant’s loss control manager, that nothing prevented Weyerhaeuser from offering McGinnis a higher paying job and that no such offer was ever made. The posting by appellant of job opportunities on its bulletin board were not “bona fide offers” but were rather invitations to bid for specific jobs to be awarded on a trial basis. Clearly, a bid by an employee would not constitute an acceptance of an offer of employment. We find no error in the Commission’s holding that the statute does not bar an award of wage-loss disability.
+Weyerhaeuser also contends that, even if an award of wage-loss disability is not barred, there is no substantial evidence to support it. In making the award the Commission stated that it had considered the claimant’s age, education, work experience, attitude and motivation, permanent anatomical impairment, and permanent physical limitations. It was appropriate for the Commission to consider these matters. Ark. Code Ann. § 11 -9-522(b); Glass v. Edens, 233 Ark. 786, 346 S.W.2d 685 (1961). The fact that McGinnis did not bid on posted job opportunities is a factor the Commission could, and evidently did, take into consideration. Similarly, the claimant’s post-injury earnings are relevant to the determination of wage-loss disability. See Bragg v. Evans-St. Clair, Inc., 15 Ark. App. 53, 688 S.W.2d 956 (1985). When the issue is whether the Commission’s decision is supported by substantial evidence, we reverse only if reasonable minds could not have reached the conclusion arrived at by the Commission. Hope Brick Works v. Welch, 33 Ark. App. 103, 802 S.W.2d 476 (1991). Here, we conclude that the Commission’s award of wage-loss disability is supported by substantial evidence.
+Affirmed.
+Danielson and Rogers, JJ., agree.
