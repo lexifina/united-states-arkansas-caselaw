@@ -1,0 +1,24 @@
+---
+court: "Superior Court of the Territory of Arkansas"
+decided: "1833-01"
+citations: ["1 Ark. Terr. Rep. 219"]
+reporter: "ark-terr-rep"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Robins and Alexander Reece, plaintiffs in error, vs. John Pope, governor, for the use of William B. K. Homer, administrator of William H. Smith, deceased."]
+source_url: "https://static.case.law/ark-terr-rep/1/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 236528
+---
+
+# Robins v. Pope ex rel. Homer
+
+## Majority
+
+Opinion oe the Court. — This is an action of debt, brought in the Phillips circuit court by the governor, for the use of Homer, as administrator de bonis non of Wm. H. Smith, deceased, upon the administration bond given by Sylvanus Phillips, the prior administrator of Smith, with Robins and Reece as his securities.
+The defendants, Robins and Reece, who were alone sued, failed to enter their appearance, and a judgment by default was taken against them at the January term, 1832, of said 'court, and a writ of inquiry and final judgment at the same term given for the plaintiff for the sum of $663.81. . From this judgment a writ of error is prosecuted- into this court. Several' errors have been assigned as causes for the reversal of the judgment; some of which only will be noticed.
+The first objection taken is as to the sufficiency of the declaration. Two only of three obligors are sued, the breach is that the defendants have not paid the sum demanded. It is insisted that the breach, as laid, should be as broad as the obligation, and that as all are bound to pay, it should be averred that all have failed to pay. This objection seems to us to be valid; it may be true that'the defendants in this suit may not have discharged the obligation, and .that Phillips, who is not sued, may have discharged it or obtained a release from it. The declaration, then, should aver that neither Phillips nor the defendants have paid it. 1 Chitty, 327, 328; Com. Dig. tit. Pleader, 647. Thé want of such allegation might be cured by a plea of the defendants to the merits, and verdict founded upon a regular issue. But we deem the objection fatal when judgment by default has been rendered.
+A second objection taken is, that the writ of inquiry was improperly executed at the term of the court at which the judgment by default, was had. The law contained in Geyer’s Digest, p. 251, sec. 7, directs that writs of inquiry should be executed at the next succeeding term after an interlocutory -judgment is given. The act of November 21,1829, (Acts, p. 23,) seems to be confined exclusively to cases in which pleadings are made up by the parties. We are of opinion that it does not repeal the provisions of the prior act; and that there is error also in the proceedings of the court below.
+A third error assigned is, that the breaches of the bond were not assigned till after the judgment by default. This no doubt would be error if the fact were so, and this court has so decided at a former term, in the case of Wiley v. Burnett. But the record in this case is made out so imperfectly that we cannot say with certainty whether the assignment of breaches was filed before or after the judgment by default. If filed after-wards, it will be incumbent on the plaintiff to amend his proceedings in this particular likewise.
+For the reasons above stated, we think the judgment should be reversed, and the cause remanded for further proceedings, not inconsistent with the opinion here expressed.
+Judgment reversed.
